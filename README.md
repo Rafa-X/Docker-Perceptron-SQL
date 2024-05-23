@@ -6,6 +6,12 @@
 
 ¿Cansado de procesos de aprobación de préstamos lentos y tediosos? ¡Tenemos la solución! Nuestro sistema de vanguardia utiliza el poder de la inteligencia artificial (IA) para transformar la forma en que se evalúan las solicitudes de préstamos.
 
+<p align="center" style="margin-bottom: 0px !important;">
+  <img width=70% src="readmeimgs/diagrama.jpeg" align="center">
+</p>
+
+Nuestro sistema está diseñado como una arquitectura de microservicios, donde cada componente cumple una función específica y se comunica con los demás a través de una red. Esta estructura ofrece modularidad, escalabilidad y facilidad de mantenimiento.
+
 ## ¿Qué Hacemos? 🤔
 
 Nuestro sistema inteligente analiza minuciosamente los datos de los solicitantes, como:
@@ -55,13 +61,6 @@ Luego, nuestro modelo de IA, un Perceptron altamente entrenado, predice con prec
 </p>
 
 ## Arquitectura del Sistema
-
-<p align="center" style="margin-bottom: 0px !important;">
-  <img width=70% src="readmeimgs/diagrama.jpeg" align="center">
-</p>
-
-Nuestro sistema está diseñado como una arquitectura de microservicios, donde cada componente cumple una función específica y se comunica con los demás a través de una red. Esta estructura ofrece modularidad, escalabilidad y facilidad de mantenimiento.
-### Componentes Principales 
 
 1. **Base de Datos (PostgreSQL):**
 Almacena los datos de los clientes, incluyendo información personal, financiera y el estado de aprobación de sus préstamos.
